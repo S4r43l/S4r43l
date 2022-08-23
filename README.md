@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S4r43l
 - 👀 I’m interested in learning more about programming.
 - 🌱 I’m currently learning C++ and C#
-- 💞️ I’m looking to collaborate on any projects
+- 💞️ I’m looking to collaborate on game progjects
 - 📫 Discord: S4r43l#6688
 
 <!---
