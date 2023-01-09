@@ -1,6 +1,6 @@
 -  Hi, I’m @S4r43l
 -  I’m curretly studying Gametechnology and simulation at Inland Norway University of Applied Sciences
--  I’m currently learning C++ and C#
+-  I’m currently learning C++, C# and Python
 -  Discord: S4r43l#6688
 
 <!---
